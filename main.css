@@ -22,3 +22,33 @@ div {
   /* this selects any elements with the red id */
   border-top-color: #f00;
 }
+
+#orange {
+  /* this selects any elements with the red id */
+  border-top-color: orange;
+}
+
+#yellow {
+  /* this selects any elements with the red id */
+  border-top-color: yellow;
+}
+
+#green {
+  /* this selects any elements with the red id */
+  border-top-color: green;
+}
+
+#blue {
+  /* this selects any elements with the red id */
+  border-top-color: blue;
+}
+
+#indigo {
+  /* this selects any elements with the red id */
+  border-top-color: indigo;
+}
+
+#violet {
+  /* this selects any elements with the red id */
+  border-top-color: violet;
+}
